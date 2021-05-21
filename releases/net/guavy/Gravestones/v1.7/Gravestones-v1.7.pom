@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>net.guavy</groupId>
+  <artifactId>Gravestones</artifactId>
+  <version>v1.7</version>
+  <dependencies>
+    <dependency>
+      <groupId>net.fabricmc</groupId>
+      <artifactId>fabric-loader</artifactId>
+      <version>0.9.3+build.207</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.fabricmc.fabric-api</groupId>
+      <artifactId>fabric-api</artifactId>
+      <version>0.20.1+build.401-1.16</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>me.shedaniel.cloth</groupId>
+      <artifactId>config-2</artifactId>
+      <version>4.8.1</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>me.sargunvohra.mcmods</groupId>
+      <artifactId>autoconfig1u</artifactId>
+      <version>3.2.2</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>io.github.prospector</groupId>
+      <artifactId>modmenu</artifactId>
+      <version>1.14.6+build.31</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.github.emilyploszaj</groupId>
+      <artifactId>trinkets</artifactId>
+      <version>2.6.4</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>

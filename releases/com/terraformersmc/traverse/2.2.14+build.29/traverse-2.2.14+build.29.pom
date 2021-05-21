@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.terraformersmc</groupId>
+  <artifactId>traverse</artifactId>
+  <version>2.2.14+build.29</version>
+  <dependencies>
+    <dependency>
+      <groupId>net.fabricmc</groupId>
+      <artifactId>fabric-loader</artifactId>
+      <version>0.8.8+build.202</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.fabricmc.fabric-api</groupId>
+      <artifactId>fabric-api</artifactId>
+      <version>0.13.1+build.370-1.16</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.terraformersmc</groupId>
+      <artifactId>terraform</artifactId>
+      <version>2.1.6+build.30</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.terraformersmc</groupId>
+  <artifactId>cinderscapes</artifactId>
+  <version>1.1.2+build.30-1.16.3</version>
+  <dependencies>
+    <dependency>
+      <groupId>net.fabricmc</groupId>
+      <artifactId>fabric-loader</artifactId>
+      <version>0.10.0+build.208</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.fabricmc.fabric-api</groupId>
+      <artifactId>fabric-api</artifactId>
+      <version>0.22.1+build.409-1.16</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.terraformersmc.terraform-api-experimental</groupId>
+      <artifactId>terraform-legacy-v0</artifactId>
+      <version>0.1.0-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>com.terraformersmc.terraform-api-experimental</groupId>
+      <artifactId>terraform-shapes-api-v1</artifactId>
+      <version>0.1.0-SNAPSHOT</version>
+      <scope>compile</scope>
+    </dependency>
+    <dependency>
+      <groupId>me.sargunvohra.mcmods</groupId>
+      <artifactId>autoconfig1u</artifactId>
+      <version>3.2.2</version>
+      <scope>compile</scope>
+    </dependency>
+  </dependencies>
+</project>
