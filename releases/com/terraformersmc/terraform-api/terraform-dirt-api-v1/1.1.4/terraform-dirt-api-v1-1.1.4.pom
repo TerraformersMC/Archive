@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <modelVersion>4.0.0</modelVersion>
   <groupId>com.terraformersmc.terraform-api</groupId>
   <artifactId>terraform-dirt-api-v1</artifactId>
@@ -8,13 +8,13 @@
     <dependency>
       <groupId>net.fabricmc</groupId>
       <artifactId>fabric-loader</artifactId>
-      <version>0.11.1</version>
+      <version>0.11.3</version>
       <scope>runtime</scope>
     </dependency>
     <dependency>
       <groupId>net.fabricmc.fabric-api</groupId>
       <artifactId>fabric-tag-extensions-v0</artifactId>
-      <version>1.1.1+ca58154a7d</version>
+      <version>1.1.4+a02b4463a0</version>
       <scope>runtime</scope>
     </dependency>
   </dependencies>
