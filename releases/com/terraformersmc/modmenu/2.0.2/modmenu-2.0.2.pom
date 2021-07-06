@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>com.terraformersmc</groupId>
+  <artifactId>modmenu</artifactId>
+  <version>2.0.2</version>
+  <dependencies>
+    <dependency>
+      <groupId>net.fabricmc</groupId>
+      <artifactId>fabric-loader</artifactId>
+      <version>0.11.3</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.fabricmc.fabric-api</groupId>
+      <artifactId>fabric-api-base</artifactId>
+      <version>0.3.0+a02b44633d</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.fabricmc.fabric-api</groupId>
+      <artifactId>fabric-resource-loader-v0</artifactId>
+      <version>0.4.7+b7ab61213d</version>
+      <scope>runtime</scope>
+    </dependency>
+    <dependency>
+      <groupId>net.fabricmc.fabric-api</groupId>
+      <artifactId>fabric-screen-api-v1</artifactId>
+      <version>1.0.4+198a96213d</version>
+      <scope>runtime</scope>
+    </dependency>
+  </dependencies>
+</project>
